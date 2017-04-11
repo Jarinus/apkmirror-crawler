@@ -17,4 +17,4 @@ configurations:
 
 ## License
 
-This code is in no way licensed and you may use it as you please.
+This code is licensed under [Creative Commons](https://creativecommons.org/licenses/by/4.0/deed.en)
