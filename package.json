@@ -1,0 +1,22 @@
+{
+  "name": "apkmirror-crawler",
+  "version": "0.0.1",
+  "description": "A crawler for ApkMirror.com",
+  "private": true,
+  "license": "UNLICENSED",
+  "bin": {
+    "webpack": "./node_modules/.bin/webpack"
+  },
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "dependencies": {
+    "follow-redirects": "^1.2.3",
+    "xmldom": "^0.1.27",
+    "xpath": "0.0.24"
+  },
+  "devDependencies": {
+    "webpack": "^2.3.3"
+  }
+}
